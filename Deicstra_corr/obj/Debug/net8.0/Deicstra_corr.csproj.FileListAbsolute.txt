@@ -1,0 +1,14 @@
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\bin\Debug\net8.0\Deicstra_corr.exe
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\bin\Debug\net8.0\Deicstra_corr.deps.json
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\bin\Debug\net8.0\Deicstra_corr.runtimeconfig.json
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\bin\Debug\net8.0\Deicstra_corr.dll
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\bin\Debug\net8.0\Deicstra_corr.pdb
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.AssemblyInfoInputs.cache
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.AssemblyInfo.cs
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.csproj.CoreCompileInputs.cache
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.dll
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\refint\Deicstra_corr.dll
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.pdb
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\Deicstra_corr.genruntimeconfig.cache
+C:\Users\urmasa\Documents\self-destruction\Deicstra_corr\obj\Debug\net8.0\ref\Deicstra_corr.dll

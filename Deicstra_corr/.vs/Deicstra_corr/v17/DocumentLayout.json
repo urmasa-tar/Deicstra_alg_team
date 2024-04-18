@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|c:\\users\\urmasa\\documents\\self-destruction\\deicstra_corr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|c:\\users\\urmasa\\documents\\self-destruction\\deicstra_corr\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|c:\\users\\urmasa\\documents\\self-destruction\\deicstra_corr\\deicstra_alg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A849E6-38D7-434C-AE51-9CB296DAF098}|Deicstra_corr.csproj|solutionrelative:deicstra_alg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deicstra_alg.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\deicstra_alg.cs",
+              "RelativeDocumentMoniker": "deicstra_alg.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\deicstra_alg.cs",
+              "RelativeToolTip": "deicstra_alg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:20:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:19:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\urmasa\\Documents\\self-destruction\\Deicstra_corr\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:18:51.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
